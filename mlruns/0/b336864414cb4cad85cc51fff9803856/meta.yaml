@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/MLOPS-Experiments-with-MLFlow/mlruns/0/b336864414cb4cad85cc51fff9803856/artifacts
+end_time: 1767325970435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b336864414cb4cad85cc51fff9803856
+run_name: caring-swan-618
+run_uuid: b336864414cb4cad85cc51fff9803856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767325970369
+status: 3
+tags: []
+user_id: PRATHMESH JOGI
